@@ -7,7 +7,7 @@ Utility functions to get information about queries and data.
 Add to your `deps.edn`
 ```clojure
 net.molequedeideias/eql-inspect {:git/url "https://github.com/molequedeideias/eql-inspect"
-                                 :sha     "..."}
+                                 :sha     "b7278748e38423dd17e910399632f168af48a2c4"}
 ```
 
 > TIP: This isn't "eql validation".
