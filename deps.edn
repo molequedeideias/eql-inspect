@@ -1,4 +1,5 @@
-{:deps    {edn-query-language/eql {:mvn/version "1.0.0"}}
+{:paths   ["src"]
+ :deps    {edn-query-language/eql {:mvn/version "1.0.0"}}
  :aliases {:dev {:extra-paths ["test"]
                  :extra-deps  {com.wsscode/pathom     {:mvn/version "2.2.30"}
                                org.clojure/clojure    {:mvn/version "1.10.1"}
